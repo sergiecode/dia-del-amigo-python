@@ -29,6 +29,6 @@ print(mensaje_amistad(nombre1, nombre2))`
 1.  Asegúrate de tener Python instalado en tu sistema.
 2.  Descarga o clona este repositorio en tu computadora.
 3.  Abre una terminal o consola y navega hasta el directorio donde se encuentra el archivo.
-4.  Ejecuta el programa con el comando `python nombre_del_archivo.py`.
+4.  Ejecuta el programa con el comando `python programa_amistad.py`.
 5.  Sigue las instrucciones y escribe los nombres de dos amigos cuando se te solicite.
 6.  ¡Disfruta del mensaje de amistad que la aplicación generará para ellos!
